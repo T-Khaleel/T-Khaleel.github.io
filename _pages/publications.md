@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications/https://ieeexplore.ieee.org/abstract/document/10541643
 author_profile: true
 ---
 
